@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="bd_aprendices" match-name="entregamedicamento"/>
+  <table-filter match-catalog="bd_aprendices" match-name="eps"/>
+  <table-filter match-catalog="bd_aprendices" match-name="estado"/>
+  <table-filter match-catalog="bd_aprendices" match-name="facturamedicamentos"/>
+  <table-filter match-catalog="bd_aprendices" match-name="facturaprocesos"/>
+  <table-filter match-catalog="bd_aprendices" match-name="formulamedicamentos"/>
+  <table-filter match-catalog="bd_aprendices" match-name="historialclinico"/>
+  <table-filter match-catalog="bd_aprendices" match-name="itemfacturamedicamentos"/>
+    <table-filter match-catalog="bd_aprendices" match-name="itemfacturaprocesos"/>
+    <table-filter match-catalog="bd_aprendices" match-name="itemformulamedicamentos"/>
+    <table-filter match-catalog="bd_aprendices" match-name="medicamento"/>
+ 	<table-filter match-catalog="bd_aprendices" match-name="paciente"/>
+ 	<table-filter match-catalog="bd_aprendices" match-name="tipodocumento"/>
+ 	<table-filter match-catalog="bd_aprendices" match-name="tipousuario"/>
+ 	<table-filter match-catalog="bd_aprendices" match-name="usuario"/>
+
+</hibernate-reverse-engineering>
